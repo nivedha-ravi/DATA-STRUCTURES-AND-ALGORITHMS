@@ -1,4 +1,4 @@
-/*APPEND TO ARRAY:*/
+//APPEND TO ARRAY:
 
 #include<stdio.h>
 #define MAX 1000
@@ -24,7 +24,7 @@ int main()
     printf("%d", totalScore);
 }
 
-/*PREPEND TO ARRAY:*/
+//PREPEND TO ARRAY:
 
 #include<stdio.h>
 #define MAX 1000
@@ -57,7 +57,7 @@ int main()
     printf("%d", totalScore);
 }
 
-/*REMOVEAT  INDEX:*/
+//REMOVEAT  INDEX:
 
 #include<stdio.h>
 #define MAX 1000

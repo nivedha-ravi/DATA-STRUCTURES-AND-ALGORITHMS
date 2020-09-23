@@ -26,7 +26,7 @@ int main()
   for(int i=1;i<=n;i++)
   {
     scanf("%d ",&value);
-    append(value);
+    prepend(value);
   }
   Node* ptr=head;
   while(ptr!=NULL)
